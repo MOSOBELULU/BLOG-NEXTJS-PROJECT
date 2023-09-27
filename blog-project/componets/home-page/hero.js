@@ -11,7 +11,7 @@ export default function Hero() {
           height={300} />
       </div>
       <div>
-        <h1> Hi, I'm Lulugna</h1>
+        <h1> Hi, I'm Lulu Mosobe</h1>
         <p>I blog about web development - esp Frontend</p>
       </div>
     </section>
